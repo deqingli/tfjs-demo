@@ -1,0 +1,11 @@
+{
+  "name": "tfjs-demo",
+  "version": "0.0.2",
+  "appMinVersion": "0.0.0.0",
+  "appMaxVersion": "255.255.255.255",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Please implement your build script and modify scripts.build section in package.json\" && exit 1"
+  }
+}
